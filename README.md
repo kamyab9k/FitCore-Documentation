@@ -1,7 +1,6 @@
 ![Cover](https://github.com/user-attachments/assets/06413b08-1f7c-47eb-af75-061541b98d55)
 
 
-![FitnessOverviewAnimation](https://github.com/user-attachments/assets/001e5e15-590c-40cd-92fa-b96cafa560e1)
 
 
 <p align="cente
