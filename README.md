@@ -1,24 +1,33 @@
 ![Cover](https://github.com/user-attachments/assets/06413b08-1f7c-47eb-af75-061541b98d55)
 
-<p align="center">
+
+
+
+<p align="cente
+  r">
+
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
   <a href="https://android-arsenal.com/api?level=24"><img alt="API" src="https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat"/></a>
   <a href="https://github.com/kamyab9k"><img alt="Profile" src="https://img.shields.io/badge/GitHub-Kamyab%20Khosravi-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Fkamyab9k"/></a>
 <a href="https://www.linkedin.com/in/kamyab-khosravi-5214551a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@kamyab9k"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a></p>
 
-**FitCore: Home Workouts & AI Coach** demonstrates the integration of [AI](https://ai.google.dev/) with Fitness on Android 
+**FitCore: Home Workouts & AI Coach** demonstrates the integration of [AI](https://ai.google.dev/) with Fitness on Android
 
 The primary objective of this application is to showcase the following:
 
 - Demonstrating the integration of AI capabilities for personalized fitness coaching and insights.
-- Categorized exercises based on usesr's fitness level and goal.
+- Categorized exercises based on user's fitness level and goal.
 - Track user steps with phone's sensors and provide weekly data chart.
-- calorie counter - distance tracker - dynamic BMI calculater and more
+- Calorie counter - distance tracker - dynamic BMI calculator and more
+
+---
 
 ## 📷 Previews
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Setup Animation" width="270px" /></br>
+
 <img src="previews/preview0.png" alt="drawing" width="270px" />
 <img src="previews/preview1.png" alt="drawing" width="270px" />
 <img src="previews/preview2.gif" alt="drawing" width="269px" /></br>
@@ -27,32 +36,63 @@ The primary objective of this application is to showcase the following:
 <a href="https://getstream.io/chat/sdk/compose?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=&utm_term=DevRelOss">
 </a>
 
+---
+
 ## 🛥 Download and enjoy!
 
 - [FitCore: Home Workouts & AI coach.apk](www.google.com)
 
+---
+![doc_2025-07-16_19-45-12](https://github.com/user-attachments/assets/30662015-8bc9-49a0-b633-58ad45a34cfb)
 
-## 💻 Setup 
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
+
+<h2 style="margin-top: 0;">💻 Setup</h2>
 
 Experience a seamless and personalized fitness journey starting with our intuitive setup screens, secure user authentication, and smart data-driven personalization.
 
-1. **Amazing UI for Onboarding & setup**: Dive into your fitness journey with a visually stunning and highly intuitive setup process.
-2. **Secure User Management**: Secure user authentication, including convenient "Forgot Password" and other account management features.
-3. **Deep Personalization**: Every piece of your user information is intelligently leveraged to create a truly personalized fitness experience and workout programs just for you.
+1.  **Amazing UI for Onboarding & setup**: Dive into your fitness journey with a visually stunning and highly intuitive setup process.
+2.  **Secure User Management**: Secure user authentication, including convenient "Forgot Password" and other account management features.
+3.  **Deep Personalization**: Every piece of your user information is intelligently leveraged to create a truly personalized fitness experience and workout programs just for you.
 
+    </td>
+    <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
+      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Setup Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+    </td>
+  </tr>
+</table>
 
-## 💻 Personalized workouts
+---
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
+
+<h2 style="margin-top: 0;">💻 Personalized Workouts</h2>
 
 Your ultimate workout companion, offering personalized plans with dynamic exercise difficulty and live instructor-led sessions to help you crush your fitness goals:
 
 1. **"For You" Personalized Program**: Receive a unique workout program specifically designed for you, considering your fitness goals, current level, and other key preferences.
 2. **Adaptive Exercise Difficulty**: The difficulty of exercises adjusts dynamically based on your fitness level (captured during setup) to ensure the most effective and engaging experience.
-3. **Comprehensive Workout Details**: Every workout program provides a set of exercises, complete with additional information like estimated calorie burn and more
+3. **Comprehensive Workout Details**: Every workout program provides a set of exercises, complete with additional information like estimated calorie burn and more.
 4. **Muscle Group Specific Exercises**: Each muscle group comes with its own dedicated set of exercises, allowing for targeted and effective training.
 
+    </td>
+    <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
+      <img src="https://github.com/user-attachments/assets/30662015-8bc9-49a0-b633-58ad45a34cfb" alt="Personalized Workouts Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+    </td>
+  </tr>
+</table>
 
-   
-## ⚙️ Step tracker
+---
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
+
+<h2 style="margin-top: 0;">⚙️ Step Tracker</h2>
 
 Your personal health companion, accurately tracking your steps, distance, and calories burned, all visualized in clear daily and weekly charts.
 
@@ -61,45 +101,93 @@ Your personal health companion, accurately tracking your steps, distance, and ca
 3. **Calorie Expenditure**: Provides an estimate of the calories you've burned through your steps.
 4. **Distance Measurement**: Automatically calculates the distance you've walked or run.
 
+    </td>
+    <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
+      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Step Tracker Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+    </td>
+  </tr>
+</table>
 
-##  Live Workout Sessions
+---
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
+
+<h2 style="margin-top: 0;"> Live Workout Sessions</h2>
 
 Join our live workout sessions for real-time, instructor-led guidance and an immersive fitness experience.
 
 1. **Interactive Live Sessions**: Engage in live workout sessions where you can follow along with an instructor's video, guiding you through each exercise.(Due to Iran's policy of Censoring Youtube Platform, this feature will be impacted with IPs from this region)
 
+    </td>
+    <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
+      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Live Workout Sessions Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+    </td>
+  </tr>
+</table>
 
+---
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-## 💻 AI Coach
+<h2 style="margin-top: 0;"> AI Coach</h2>
 
+Join our live workout sessions for real-time, instructor-led guidance and an immersive fitness experience.
 Your intelligent AI Coach, providing personalized advice and plans across all aspects of health, fitness, and nutrition to guide your wellness journey
 
 1. **Personalized Wellness Partner**: Get smarter about your health with an AI that provides customized advice and actionable plans for fitness, food, and overall well-being.
 2. **Your Fitness Q&A Hub**: Instantly get answers to all your fitness questions, empowering you with the knowledge to make informed decisions and overcome challenges.
 3. **Multilanguage Model**: Ask your question in ***40*** languages and your AI fitness coach will answer.
+4. Out of Region(429 Error) If you encounter this error from the outset, it's likely that your rate limits do not meet the requirements. Please revisit step 16 in the guidelines above for further instructions.
+5. No network(499 Error)
+6. unrelated question(555 Error)
 
-### Out of Region(429 Error)
-If you encounter this error from the outset, it's likely that your rate limits do not meet the requirements. Please revisit step 16 in the guidelines above for further instructions.
-
-### No network(499 Error)
-If you encounter this error from the outset, it's likely that your rate limits do not meet the requirements. Please revisit step 16 in the guidelines above for further instructions.
-
-### unrelated question(555 Error)
-If you encounter this error from the outset, it's likely that your rate limits do not meet the requirements. Please revisit step 16 in the guidelines above for further instructions.
+    </td>
+    <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
+      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Live Workout Sessions Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+    </td>
+  </tr>
+</table>
 
 
-## 💻 Fitness Overview and Insights
+---
 
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
+
+<h2 style="margin-top: 0;">💻 Fitness Overview and Insights</h2>
 
 Track your key health metrics and gain valuable insights into your progress with our dynamic fitness overview
 1. **Your Metric Display**: View your current weight, recommended healthy weight, and BMI at a glance.
 2. **Dynamic BMI Card**: Your BMI card updates automatically and instantly whenever you log a change in your current weight, keeping your insights always current.
 
+    </td>
+    <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
+      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Fitness Overview and Insights Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+    </td>
+  </tr>
+</table>
 
-## 💻 theme customization
+---
+
+<table style="width:100%;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
+
+<h2 style="margin-top: 0;">💻 Theme Customization</h2>
 
 Track your key health metrics and gain valuable insights into your progress with our dynamic fitness overview
 1. **Dark mode**: View your current weight, recommended healthy weight, and BMI at a glance.
+
+    </td>
+    <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
+      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Theme Customization Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+    </td>
+  </tr>
+</table>
 
 
 
