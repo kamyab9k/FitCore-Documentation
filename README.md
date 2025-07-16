@@ -26,8 +26,6 @@ The primary objective of this application is to showcase the following:
 ## 📷 Previews
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Setup Animation" width="270px" /></br>
-
 <img src="previews/preview0.png" alt="drawing" width="270px" />
 <img src="previews/preview1.png" alt="drawing" width="270px" />
 <img src="previews/preview2.gif" alt="drawing" width="269px" /></br>
