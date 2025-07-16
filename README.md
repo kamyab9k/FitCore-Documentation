@@ -1,6 +1,7 @@
 ![Cover](https://github.com/user-attachments/assets/06413b08-1f7c-47eb-af75-061541b98d55)
 
 
+![FitnessOverviewAnimation](https://github.com/user-attachments/assets/001e5e15-590c-40cd-92fa-b96cafa560e1)
 
 
 <p align="cente
@@ -169,7 +170,7 @@ Track your key health metrics and gain valuable insights into your progress with
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
-      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Fitness Overview and Insights Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+      <img src="https://github.com/user-attachments/assets/001e5e15-590c-40cd-92fa-b96cafa560e1" alt="Fitness Overview and Insights Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
     </td>
   </tr>
 </table>
