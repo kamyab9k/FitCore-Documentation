@@ -81,7 +81,7 @@ Your ultimate workout companion, offering personalized plans with dynamic exerci
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
-      <img src="https://github.com/user-attachments/assets/30662015-8bc9-49a0-b633-58ad45a34cfb" alt="Personalized Workouts Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+      <img src="https://github.com/user-attachments/assets/ca5e710f-5adb-4ec4-beb6-e4695f233b33" alt="Personalized Workouts Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
     </td>
   </tr>
 </table>
@@ -93,6 +93,8 @@ Your ultimate workout companion, offering personalized plans with dynamic exerci
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
 <h2 style="margin-top: 0;">⚙️ Step Tracker</h2>
+![StepcounterAnimation]()
+
 
 Your personal health companion, accurately tracking your steps, distance, and calories burned, all visualized in clear daily and weekly charts.
 
@@ -103,12 +105,13 @@ Your personal health companion, accurately tracking your steps, distance, and ca
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
-      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Step Tracker Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+      <img src="https://github.com/user-attachments/assets/9bb99b81-adf0-4582-b891-aefc2901e7e7" alt="Step Tracker Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
     </td>
   </tr>
 </table>
 
 ---
+![AICoachAnimation]()
 
 <table style="width:100%;">
   <tr>
@@ -146,7 +149,7 @@ Your intelligent AI Coach, providing personalized advice and plans across all as
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
-      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Live Workout Sessions Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+      <img src="https://github.com/user-attachments/assets/084bc093-70aa-419f-be60-9fd75dea175e" alt="Live Workout Sessions Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
     </td>
   </tr>
 </table>
