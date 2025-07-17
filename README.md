@@ -29,7 +29,7 @@ This fitness application showcases:
 
 ---
 
-## 📥 Download and enjoy!
+## 📥 Download & Install!
 
 - [FitCore: Home Workouts & AI coach.apk](www.google.com)
 
@@ -40,11 +40,11 @@ This fitness application showcases:
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-<h2 style="margin-top: 0;">🚀 OnBoarding & Setup</h2>
+<h2 style="margin-top: 0;">🚀 Onboarding & Setup</h2>
 
-Experience a seamless and personalized fitness journey starting with our intuitive setup screens, secure user authentication, and smart data-driven personalization.
+Experience a seamless and personalized fitness journey starting with intuitive setup screens, secure user authentication, and smart data-driven personalization.
 
-1.  **Modern UI for Onboarding & setup**: Dive into your fitness journey with a visually stunning and highly intuitive setup process.
+1.  **Modern UI for Onboarding & setup**: Dive into your fitness journey with a visually stunning setup process.
 2.  **Secure User Management**: Secure user authentication, including convenient "Forgot Password" and other account management features.
 3.  **Deep Personalization**: Every piece of your user information is intelligently leveraged to create a truly personalized fitness experience and workout programs just for you.
 
@@ -87,7 +87,7 @@ Your ultimate workout companion, offering personalized plans with dynamic exerci
 ![StepcounterAnimation]()
 
 
-Your personal health companion, accurately tracking your steps, distance, and calories burned, all visualized in clear daily and weekly charts.
+Accurately tracking your steps, distance, and calories burned, visualized in clear daily and weekly charts.
 
 1. **Sensor-Based Tracking**: Utilizes your device's internal sensors for precise step counting.
 2. **Progress Charts**: Offers intuitive daily and weekly charts to visualize your step activity and progress over time.
