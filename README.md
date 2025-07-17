@@ -190,9 +190,9 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
   - [Type Safe Compose Navigation](https://developer.android.com/guide/navigation/design/type-safety): For navigating screens and Type Safety to create more robust, reliable, and maintainable navigation system  , enabling Compile-Time Error Detection.
   - [Room](https://developer.android.com/training/data-storage/room): Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
   - [Hilt](https://dagger.dev/hilt/): Dependency Injection.
-  - [Compose animation](https://github.com/skydoves/landscapist#animation): Jetpack Compose animations.
+  - [Compose animation](https://developer.android.com/develop/ui/compose/animation/introduction): Jetpack Compose animations.
   - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager): To achieve background processing with scheduling.
-- [Coil](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images#0),
+- [Coil](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images#0): image loading library for Android.
 - [Retrofit2](https://github.com/square/retrofit): Construct the REST APIs and paging network data.
 - [ksp](https://github.com/google/ksp): Kotlin Symbol Processing API.
 - [viewmodel-lifecycle](https://github.com/skydoves/viewmodel-lifecycle): ViewModel Lifecycle allows you to track and observe Jetpack's ViewModel lifecycle changes.
