@@ -102,7 +102,6 @@ Your personal health companion, accurately tracking your steps, distance, and ca
 </table>
 
 ---
-![AICoachAnimation]()
 
 <table style="width:100%;">
   <tr>
@@ -144,7 +143,6 @@ Your intelligent AI Coach, providing personalized advice and plans across all as
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -188,16 +186,16 @@ Track your key health metrics and gain valuable insights into your progress with
 ## 🛠 Tech Stack & Libraries
 - Minimum SDK level 24.
 - 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous streams.
-- [Firebase](https://firebase.google.com/):
-  - Authentication: Secure user sign-up, sign-in (including forgot password) for seamless onboarding.
-  - Crashlytics: Real-time crash reporting and insightful error analysis to maintain app stability.
+- Firebase:
+  - [Authentication](https://firebase.google.com/products/auth): Secure user sign-up, sign-in (including forgot password) for seamless onboarding.
+  - [Crashlytics](https://firebase.google.com/products/crashlytics): Real-time crash reporting and insightful error analysis to maintain app stability.
   - DebugView: For real-time event monitoring and validation during development.
 - Initial Data Population: Efficiently prepopulates the Room database with initial data using a [pre-packaged JSON strategy](https://developer.android.com/training/data-storage/room/prepopulate)
 - [Google Gemini](https://ai.google.dev/): Powers the AI-driven personalized fitness coaching
 - Jetpack
-  - Compose: Android’s modern toolkit for building native UI.
+  - [Compose](https://developer.android.com/compose): Android’s modern toolkit for building native UI.
   - ViewModel: UI related data holder and lifecycle aware.
-  - Type Safe Compose Navigation: For navigating screens and [Type Safety](https://developer.android.com/guide/navigation/design/type-safety) to create more robust, reliable, and maintainable navigation system  and enabling Compile-Time Error Detection.
+  - [Type Safe Compose Navigation](https://developer.android.com/guide/navigation/design/type-safety): For navigating screens and Type Safety to create more robust, reliable, and maintainable navigation system  , enabling Compile-Time Error Detection.
   - Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
   - [Hilt](https://dagger.dev/hilt/): Dependency Injection.
   - [Compose animation](https://github.com/skydoves/landscapist#animation): Jetpack Compose animations.
@@ -234,19 +232,6 @@ The UI Layer consists of UI elements like buttons, menus, tabs that could intera
 ![layer](figures/figure3.png)
 
 The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic and follows the [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth) principle.<br>
-
-
-## Fire Base
-
-![modules](figures/figure4.png)
-
-**FitCore** adopted modularization strategies below:
-
-- **Reusability**: Modulizing reusable codes properly enable opportunities for code sharing and limits code accessibility in other modules at the same time.
-
-- **Parallel Building**: Each module can be run in parallel and it reduces the build time.
-
-- **Decentralized focusing**: Each developer team can assign their dedicated module and they can focus on their own modules.
 
 
 
