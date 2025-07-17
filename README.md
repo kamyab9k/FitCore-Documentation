@@ -1,8 +1,6 @@
 ![Cover](https://github.com/user-attachments/assets/06413b08-1f7c-47eb-af75-061541b98d55)
 
 
-
-
 <p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
   <a href="https://android-arsenal.com/api?level=24"><img alt="API" src="https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat"/></a>
@@ -189,19 +187,18 @@ Track your key health metrics and gain valuable insights into your progress with
 
 ## 🛠 Tech Stack & Open Source Libraries
 - Minimum SDK level 24.
-- 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous and cold streams.
-- [Compose Messaging](https://getstream.io/chat/sdk/compose?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=Github_April2024_Jaewoong_ChatGPT&utm_term=DevRelOss): The Jetpack Compose  is built on a low-level chat client and provides modular, customizable Compose UI components that you can easily drop into your app.
+- 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous streams.
 - [Gemini](https://platform.openai.com/docs/api-reference/chat): Given a messages, the model will return a response.
 - Jetpack
   - Compose: Android’s modern toolkit for building native UI.
   - ViewModel: UI related data holder and lifecycle aware.
-  - App Startup: Provides a straightforward, performant way to initialize components at application startup.
-  - Navigation: For navigating screens and [Hilt Navigation Compose](https://developer.android.com/jetpack/compose/libraries#hilt) for injecting dependencies.
+  - Type Safe Compose Navigation: For navigating screens and [Navigation Compose](https://developer.android.com/jetpack/compose/libraries#hilt) for .
   - Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
   - [Hilt](https://dagger.dev/hilt/): Dependency Injection.
+  - [Compose animation](https://github.com/skydoves/landscapist#animation): Jetpack Compose animations.
   - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager): To achieve background processing with scheduling.
-- [Landscapist Glide](https://github.com/skydoves/landscapist#glide), [animation](https://github.com/skydoves/landscapist#animation), [placeholder](https://github.com/skydoves/landscapist#placeholder): Jetpack Compose image loading library that fetches and displays network images with Glide, Coil, and Fresco.
-- [Retrofit2 & OkHttp3](https://github.com/square/retrofit): Construct the REST APIs and paging network data.
+- [Glide](https://github.com/skydoves/landscapist#glide),
+- [Retrofit2](https://github.com/square/retrofit): Construct the REST APIs and paging network data.
 - [ksp](https://github.com/google/ksp): Kotlin Symbol Processing API.
 - [viewmodel-lifecycle](https://github.com/skydoves/viewmodel-lifecycle): ViewModel Lifecycle allows you to track and observe Jetpack's ViewModel lifecycle changes.
 
