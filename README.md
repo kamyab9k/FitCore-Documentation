@@ -125,8 +125,8 @@ Your intelligent AI Coach, providing personalized advice and plans across all as
 2. **Your Fitness Q&A Hub**: Instantly get answers to all your fitness questions, empowering you with the knowledge to make informed decisions and overcome challenges.
 3. **Multilanguage Model**: Ask your question in ***40*** languages and your AI fitness coach will answer.
   
- - Out of Region / Forbidden Access (HTTP 403): This error, typically indicating ForbiddenApiException in the app, means API access from your current geographic location might be restricted. The Gemini API has specific [supported regions](https://ai.google.dev/gemini-api/docs/available-regions). If you encounter this, consider using a VPN or an alternative access method if allowed by Google's terms of service.
- - Network Error (HTTP 499 - Client Cancelled Request / IOException): Often occurs if your device loses internet connectivity or the request is interrupted.
+ - Out of Region / Forbidden Access (HTTP 403): This error, means API access from your current geographic location might be restricted. The Gemini API has specific [supported regions](https://ai.google.dev/gemini-api/docs/available-regions). If you encounter this, consider using a VPN or an alternative access method if allowed by Google's terms of service.
+ - Network Error (HTTP 499): Often occurs if your device loses internet connectivity.
  - Invalid Input ( HTTP 400): If your question is malformed or violates API input requirements, you might receive this
  - API Rate Limit Exceeded (HTTP 429): This error, typically indicating TooManyRequestsException in the app, means you've exceeded the allowed number of API calls. Please wait a moment and try again
 
