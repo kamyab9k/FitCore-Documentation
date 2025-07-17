@@ -29,7 +29,7 @@ This fitness application showcases:
 
 ---
 
-## 🛥 Download and enjoy!
+## 📥 Download and enjoy!
 
 - [FitCore: Home Workouts & AI coach.apk](www.google.com)
 
@@ -40,7 +40,7 @@ This fitness application showcases:
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-<h2 style="margin-top: 0;">💻 Setup</h2>
+<h2 style="margin-top: 0;">🚀 OnBoarding & Setup</h2>
 
 Experience a seamless and personalized fitness journey starting with our intuitive setup screens, secure user authentication, and smart data-driven personalization.
 
@@ -61,7 +61,7 @@ Experience a seamless and personalized fitness journey starting with our intuiti
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-<h2 style="margin-top: 0;">💻 Personalized Workouts</h2>
+<h2 style="margin-top: 0;">🏋️ Personalized Workouts</h2>
 
 Your ultimate workout companion, offering personalized plans with dynamic exercise difficulty and live instructor-led sessions to help you crush your fitness goals:
 
@@ -83,7 +83,7 @@ Your ultimate workout companion, offering personalized plans with dynamic exerci
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-<h2 style="margin-top: 0;">⚙️ Step Tracker</h2>
+<h2 style="margin-top: 0;">👣 Step Tracker</h2>
 ![StepcounterAnimation]()
 
 
@@ -107,11 +107,12 @@ Your personal health companion, accurately tracking your steps, distance, and ca
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-<h2 style="margin-top: 0;"> Live Workout Sessions</h2>
+<h2 style="margin-top: 0;"> 🔥 Live Workout Sessions</h2>
 
-Join our live workout sessions for real-time, instructor-led guidance and an immersive fitness experience.
+Join our workout sessions for instructor-led guidance and an immersive fitness experience.
 
-1. **Interactive Live Sessions**: Engage in live workout sessions where you can follow along with an instructor's video, guiding you through each exercise.(Due to Iran's policy of Censoring Youtube Platform, this feature will be impacted with IPs from this region)
+1. **Interactive workout Sessions**: Engage in live workout sessions where you can follow along with an instructor's video, guiding you through each exercise.
+   - (Due to Iran's policy of Censoring Youtube Platform, this feature will be impacted with IPs from this region)
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
@@ -125,7 +126,7 @@ Join our live workout sessions for real-time, instructor-led guidance and an imm
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-<h2 style="margin-top: 0;"> AI Coach</h2>
+<h2 style="margin-top: 0;">🧠 AI Coach</h2>
 
 Your intelligent AI Coach, providing personalized advice and plans across all aspects of health, fitness, and nutrition to guide your wellness journey
 
@@ -151,7 +152,7 @@ Your intelligent AI Coach, providing personalized advice and plans across all as
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-<h2 style="margin-top: 0;">💻 Fitness Overview and Insights</h2>
+<h2 style="margin-top: 0;">📈 Fitness Overview and Insights</h2>
 
 Track your key health metrics and gain valuable insights into your progress with our dynamic fitness overview
 1. **Your Metric Display**: View your current weight, recommended healthy weight, and BMI at a glance.
@@ -170,7 +171,7 @@ Track your key health metrics and gain valuable insights into your progress with
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-<h2 style="margin-top: 0;">💻 Theme Customization</h2>
+<h2 style="margin-top: 0;">🎨 Theme Customization</h2>
 
 Track your key health metrics and gain valuable insights into your progress with our dynamic fitness overview
 1. **Dark mode**: View your current weight, recommended healthy weight, and BMI at a glance.
