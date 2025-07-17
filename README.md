@@ -10,9 +10,9 @@
 
 **FitCore: Home Workouts & AI Coach** demonstrates the integration of [AI](https://ai.google.dev/) with Fitness on Android
 
-The primary objective of this application is to showcase the following:
+This fitness application demonstrates:
 
-- Demonstrating the integration of AI capabilities for personalized fitness coaching and insights.
+- The integration of AI capabilities for personalized fitness coaching and insights.
 - Categorized exercises based on user's fitness level and goal.
 - Track user steps with phone's sensors and provide weekly data chart.
 - Calorie counter - distance tracker - dynamic BMI calculator and more
@@ -185,19 +185,24 @@ Track your key health metrics and gain valuable insights into your progress with
 
 
 
-## 🛠 Tech Stack & Open Source Libraries
+## 🛠 Tech Stack & Libraries
 - Minimum SDK level 24.
 - 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous streams.
-- [Gemini](https://platform.openai.com/docs/api-reference/chat): Given a messages, the model will return a response.
+- [Firebase](https://firebase.google.com/):
+  - Authentication: Secure user sign-up, sign-in (including forgot password) for seamless onboarding.
+  - Crashlytics: Real-time crash reporting and insightful error analysis to maintain app stability.
+  - DebugView: For real-time event monitoring and validation during development.
+- Initial Data Population: Efficiently prepopulates the Room database with initial data using a [pre-packaged JSON strategy](https://developer.android.com/training/data-storage/room/prepopulate)
+- [Google Gemini](https://ai.google.dev/): Powers the AI-driven personalized fitness coaching
 - Jetpack
   - Compose: Android’s modern toolkit for building native UI.
   - ViewModel: UI related data holder and lifecycle aware.
-  - Type Safe Compose Navigation: For navigating screens and [Navigation Compose](https://developer.android.com/jetpack/compose/libraries#hilt) for .
+  - Type Safe Compose Navigation: For navigating screens and [Type Safety](https://developer.android.com/guide/navigation/design/type-safety) to create more robust, reliable, and maintainable navigation system  and enabling Compile-Time Error Detection.
   - Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
   - [Hilt](https://dagger.dev/hilt/): Dependency Injection.
   - [Compose animation](https://github.com/skydoves/landscapist#animation): Jetpack Compose animations.
   - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager): To achieve background processing with scheduling.
-- [Glide](https://github.com/skydoves/landscapist#glide),
+- [Coil](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images#0),
 - [Retrofit2](https://github.com/square/retrofit): Construct the REST APIs and paging network data.
 - [ksp](https://github.com/google/ksp): Kotlin Symbol Processing API.
 - [viewmodel-lifecycle](https://github.com/skydoves/viewmodel-lifecycle): ViewModel Lifecycle allows you to track and observe Jetpack's ViewModel lifecycle changes.
@@ -208,7 +213,6 @@ Track your key health metrics and gain valuable insights into your progress with
 
 ![architecture](figures/figure0.png)
 
-**Fitcore** was built with [Guide to app architecture](https://developer.android.com/topic/architecture), so it would be a great sample to show how the architecture works in real-world projects.<br>
 
 The overall architecture is composed of two layers; UI Layer and the data layer. Each layer has dedicated components and they each have different responsibilities.
 The arrow means the component has a dependency on the target component following its direction.
@@ -231,7 +235,6 @@ The UI Layer consists of UI elements like buttons, menus, tabs that could intera
 
 The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic and follows the [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth) principle.<br>
 
-For more information about the overall architecture, check out **[Clone With Jetpack Compose]()**.
 
 ## Fire Base
 
