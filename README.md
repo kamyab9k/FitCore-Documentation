@@ -19,15 +19,6 @@ This fitness application showcases:
 
 ---
 
-## 📷 Previews
-
-<p align="center">
-
-</p>
-
-</a>
-
----
 
 ## 📥 Download & Install!
 
