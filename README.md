@@ -162,8 +162,9 @@ Track your key health metrics and gain valuable insights into your progress with
 
 <h2 style="margin-top: 0;">🌙 Theme customization</h2>
 
-Track your key health metrics and gain valuable insights into your progress with our dynamic fitness overview
-1. **Dark mode**: View your current weight, recommended healthy weight, and BMI at a glance.
+Personalize your visual experience and reduce eye strain with FitCore's theme customization option.
+1. **Dark mode**:  Switch to a sleek, eye-friendly dark theme that's perfect for low-light environments and extended use.
+
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
