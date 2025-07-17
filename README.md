@@ -46,7 +46,7 @@ The primary objective of this application is to showcase the following:
 
 Experience a seamless and personalized fitness journey starting with our intuitive setup screens, secure user authentication, and smart data-driven personalization.
 
-1.  **Amazing UI for Onboarding & setup**: Dive into your fitness journey with a visually stunning and highly intuitive setup process.
+1.  **Modern UI for Onboarding & setup**: Dive into your fitness journey with a visually stunning and highly intuitive setup process.
 2.  **Secure User Management**: Secure user authentication, including convenient "Forgot Password" and other account management features.
 3.  **Deep Personalization**: Every piece of your user information is intelligently leveraged to create a truly personalized fitness experience and workout programs just for you.
 
