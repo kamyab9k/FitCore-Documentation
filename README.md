@@ -197,7 +197,7 @@ Track your key health metrics and gain valuable insights into your progress with
   - [Compose](https://developer.android.com/compose): Android’s modern toolkit for building native UI.
   - ViewModel: UI related data holder and lifecycle aware.
   - [Type Safe Compose Navigation](https://developer.android.com/guide/navigation/design/type-safety): For navigating screens and Type Safety to create more robust, reliable, and maintainable navigation system  , enabling Compile-Time Error Detection.
-  - Room: Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
+  - [Room](https://developer.android.com/training/data-storage/room): Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
   - [Hilt](https://dagger.dev/hilt/): Dependency Injection.
   - [Compose animation](https://github.com/skydoves/landscapist#animation): Jetpack Compose animations.
   - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager): To achieve background processing with scheduling.
@@ -233,7 +233,6 @@ The UI Layer consists of UI elements like buttons, menus, tabs that could intera
 ![layer](figures/figure3.png)
 
 The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic and follows the [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth) principle.<br>
-
 
 
 
