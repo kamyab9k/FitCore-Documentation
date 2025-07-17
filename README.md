@@ -7,7 +7,7 @@
   <a href="https://github.com/kamyab9k"><img alt="Profile" src="https://img.shields.io/badge/GitHub-Kamyab%20Khosravi-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Fkamyab9k"/></a>
 <a href="https://www.linkedin.com/in/kamyab-khosravi-5214551a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@kamyab9k"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a></p>
-
+  
 **FitCore: Home Workouts & AI Coach** demonstrates the integration of AI with Fitness on Android
 
 This fitness application showcases:
@@ -211,29 +211,29 @@ Track your key health metrics and gain valuable insights into your progress with
 
 **Fitcore** follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
 
-![architecture](figures/figure0.png)
+<img width="1029" height="783" alt="Architecture" src="https://github.com/user-attachments/assets/794623da-eb79-4837-b570-3f50ddff22d0" />
 
 
 The overall architecture is composed of two layers; UI Layer and the data layer. Each layer has dedicated components and they each have different responsibilities.
 The arrow means the component has a dependency on the target component following its direction.
 
 ### Architecture Overview
-
-![layer](figures/figure1.png)
+![overview](https://github.com/user-attachments/assets/25eb063a-b71b-4cf8-9682-72610e3f267d)
 
 Each layer has different responsibilities below. Basically, they follow [unidirectional event/data flow](https://developer.android.com/topic/architecture/ui-layer#udf).
 
 ### UI Layer
 
-![layer](figures/figure2.png)
+![UI Layer](https://github.com/user-attachments/assets/932a2d36-dcf2-4a39-a66a-4fc6a643f878)
+
 
 The UI Layer consists of UI elements like buttons, menus, tabs that could interact with users and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) that holds app states and restores data when configuration changes.
 
 ### Data Layer
+<img width="1028" height="799" alt="DataLayer" src="https://github.com/user-attachments/assets/95106660-09af-43c2-b9ce-9cb04f2a4ac2" />
 
-![layer](figures/figure3.png)
 
-The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic and follows the [single source of truth](https://en.wikipedia.org/wiki/Single_source_of_truth) principle.<br>
+The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic.<br>
 
 
 
