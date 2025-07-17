@@ -243,6 +243,6 @@ Email me at:  m.khosravi.dev@gmail.com
 or contact me on [Linkedin](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/)
 
 ## Find this app exciting? ❤️
-Support it by following __[follow me](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/)__ on Linkedin! 🤩
+Support it by __[following me](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/)__ on Linkedin! 🤩
 
 
