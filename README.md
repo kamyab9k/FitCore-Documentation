@@ -3,9 +3,7 @@
 
 
 
-<p align="center
-  r">
-
+<p align="center">
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
   <a href="https://android-arsenal.com/api?level=24"><img alt="API" src="https://img.shields.io/badge/API-24%2B-brightgreen.svg?style=flat"/></a>
   <a href="https://github.com/kamyab9k"><img alt="Profile" src="https://img.shields.io/badge/GitHub-Kamyab%20Khosravi-blue?style=flat&link=https%3A%2F%2Fgithub.com%2Fkamyab9k"/></a>
