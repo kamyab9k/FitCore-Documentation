@@ -75,8 +75,6 @@ Your ultimate workout companion, offering personalized plans with dynamic exerci
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
 <h2 style="margin-top: 0;">👣 Step Tracker</h2>
-![StepcounterAnimation]()
-
 
 Accurately tracking your steps, distance, and calories burned, visualized in clear daily and weekly charts.
 
