@@ -8,9 +8,9 @@
 <a href="https://www.linkedin.com/in/kamyab-khosravi-5214551a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@kamyab9k"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a></p>
 
-**FitCore: Home Workouts & AI Coach** demonstrates the integration of [AI](https://ai.google.dev/) with Fitness on Android
+**FitCore: Home Workouts & AI Coach** demonstrates the integration of AI with Fitness on Android
 
-This fitness application demonstrates:
+This fitness application showcases:
 
 - The integration of AI capabilities for personalized fitness coaching and insights.
 - Categorized exercises based on user's fitness level and goal.
@@ -127,15 +127,16 @@ Join our live workout sessions for real-time, instructor-led guidance and an imm
 
 <h2 style="margin-top: 0;"> AI Coach</h2>
 
-Join our live workout sessions for real-time, instructor-led guidance and an immersive fitness experience.
 Your intelligent AI Coach, providing personalized advice and plans across all aspects of health, fitness, and nutrition to guide your wellness journey
 
 1. **Personalized Wellness Partner**: Get smarter about your health with an AI that provides customized advice and actionable plans for fitness, food, and overall well-being.
 2. **Your Fitness Q&A Hub**: Instantly get answers to all your fitness questions, empowering you with the knowledge to make informed decisions and overcome challenges.
 3. **Multilanguage Model**: Ask your question in ***40*** languages and your AI fitness coach will answer.
-4. Out of Region(429 Error) If you encounter this error from the outset, it's likely that your rate limits do not meet the requirements. Please revisit step 16 in the guidelines above for further instructions.
-5. No network(499 Error)
-6. unrelated question(555 Error)
+  
+ - Out of Region / Forbidden Access (HTTP 403): This error, typically indicating ForbiddenApiException in the app, means API access from your current geographic location might be restricted. The Gemini API has specific [supported regions](https://ai.google.dev/gemini-api/docs/available-regions). If you encounter this, consider using a VPN or an alternative access method if allowed by Google's terms of service.
+ - Network Error (HTTP 499 - Client Cancelled Request / IOException): Often occurs if your device loses internet connectivity or the request is interrupted.
+ - Invalid Input ( HTTP 400): If your question is malformed or violates API input requirements, you might receive this
+ - API Rate Limit Exceeded (HTTP 429): This error, typically indicating TooManyRequestsException in the app, means you've exceeded the allowed number of API calls. Please wait a moment and try again
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
