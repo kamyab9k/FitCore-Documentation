@@ -1,10 +1,9 @@
 ![Cover](https://github.com/user-attachments/assets/06413b08-1f7c-47eb-af75-061541b98d55)
 
 
-![DarkmodeAnimation]()
 
 
-<p align="cente
+<p align="center
   r">
 
   <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"/></a>
