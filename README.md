@@ -1,6 +1,7 @@
 ![Cover](https://github.com/user-attachments/assets/06413b08-1f7c-47eb-af75-061541b98d55)
 
 
+![DarkmodeAnimation]()
 
 
 <p align="cente
@@ -26,12 +27,9 @@ The primary objective of this application is to showcase the following:
 ## 📷 Previews
 
 <p align="center">
-<img src="previews/preview0.png" alt="drawing" width="270px" />
-<img src="previews/preview1.png" alt="drawing" width="270px" />
-<img src="previews/preview2.gif" alt="drawing" width="269px" /></br>
+
 </p>
 
-<a href="https://getstream.io/chat/sdk/compose?utm_source=Github&utm_medium=Jaewoong_OSS&utm_content=Developer&utm_campaign=&utm_term=DevRelOss">
 </a>
 
 ---
@@ -185,7 +183,7 @@ Track your key health metrics and gain valuable insights into your progress with
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
-      <img src="https://github.com/user-attachments/assets/e6601005-6a18-444f-bb7c-a0b6f64c6bea" alt="Theme Customization Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+      <img src="https://github.com/user-attachments/assets/6e74e68a-c51b-4049-9f39-917ea2e5619f" alt="Theme Customization Animation" width="270px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
     </td>
   </tr>
 </table>
