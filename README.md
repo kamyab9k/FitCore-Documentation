@@ -171,7 +171,7 @@ Track your key health metrics and gain valuable insights into your progress with
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
 
-<h2 style="margin-top: 0;">🎨 Theme Customization</h2>
+<h2 style="margin-top: 0;">🌙 Theme customization</h2>
 
 Track your key health metrics and gain valuable insights into your progress with our dynamic fitness overview
 1. **Dark mode**: View your current weight, recommended healthy weight, and BMI at a glance.
@@ -237,14 +237,12 @@ The data Layer consists of repositories, which include business logic, such as q
 
 
 
-## 🤝 Contribution
+## 🤝 Collaboration or business oppurtunity?
 
-Email or contact me on [Linkedin](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/) for collaboration
+Email me at:  m.khosravi.dev@gmail.com 
+or contact me on [Linkedin](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/)
 
-## Find this app exciting? 💙
+## Find this app exciting? ❤️
 Support it by following __[follow me](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/)__ on Linkedin! 🤩
 
-# License
-```xml
 
-```
