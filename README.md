@@ -228,13 +228,16 @@ The UI Layer consists of UI elements like buttons, menus, tabs that could intera
 The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic.<br>
 
 
+## In Development ⚡
+ -User achievement system (part of gamification strategy)
+ -Upcoming workouts in live workout sessions screen
+
 
 ## 🤝 Collaboration or business oppurtunity?
 
 Email me at:  m.khosravi.dev@gmail.com 
 or contact me on [Linkedin](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/)
 
-## Find this app exciting? ❤️
-Share it with your friends! 🤩
+
 
 
