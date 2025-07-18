@@ -17,6 +17,9 @@ Discover FitCore's Features:
 - Track user steps with phone's sensors and provide weekly data chart.
 - Calorie counter - distance tracker - dynamic BMI calculator and more
 
+<br>
+
+
 ---
 
 
@@ -174,6 +177,7 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
   </tr>
 </table>
 
+<br>
 
 
 ## 🛠 Tech Stack & Libraries
@@ -199,6 +203,8 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
 - [ksp](https://github.com/google/ksp): Kotlin Symbol Processing API.
 - [viewmodel-lifecycle](https://github.com/skydoves/viewmodel-lifecycle): ViewModel Lifecycle allows you to track and observe Jetpack's ViewModel lifecycle changes.
 
+<br>
+
 ## 🏛️ Architecture
 
 **Fitcore** follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
@@ -209,10 +215,12 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
 The overall architecture is composed of two layers; UI Layer and the data layer. Each layer has dedicated components and they each have different responsibilities.
 The arrow means the component has a dependency on the target component following its direction.
 
+
 ### Architecture Overview
 ![overview](https://github.com/user-attachments/assets/25eb063a-b71b-4cf8-9682-72610e3f267d)
 
 Each layer has different responsibilities below. Basically, they follow [unidirectional event/data flow](https://developer.android.com/topic/architecture/ui-layer#udf).
+
 
 ### UI Layer
 
@@ -221,16 +229,20 @@ Each layer has different responsibilities below. Basically, they follow [unidire
 
 The UI Layer consists of UI elements like buttons, menus, tabs that could interact with users and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) that holds app states and restores data when configuration changes.
 
+
 ### Data Layer
 <img width="1028" height="799" alt="DataLayer" src="https://github.com/user-attachments/assets/95106660-09af-43c2-b9ce-9cb04f2a4ac2" />
 
 
 The data Layer consists of repositories, which include business logic, such as querying data from the local database and requesting remote data from the network. It is implemented as an offline-first source of business logic.<br>
 
+<br>
 
 ## In Development ⚡
- -User achievement system (part of gamification strategy)
- -Upcoming workouts in live workout sessions screen
+ - User achievement system (part of gamification strategy)
+ - Upcoming workouts in live workout sessions screen
+
+<br>
 
 
 ## 🤝 Collaboration or business oppurtunity?
