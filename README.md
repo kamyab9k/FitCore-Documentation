@@ -109,7 +109,9 @@ Join our workout sessions for instructor-led guidance and an immersive fitness e
     </td>
   </tr>
 </table>
+
 ---
+
 <table style="width:100%;">
   <tr>
     <td style="width:50%; vertical-align:top; padding-right:15px;" valign="top">
@@ -124,7 +126,7 @@ Your intelligent AI Coach, providing personalized advice and plans across all as
   
  - Out of Region / Forbidden Access (HTTP 403): This error, means API access from your current geographic location might be restricted. The Gemini API has specific [supported regions](https://ai.google.dev/gemini-api/docs/available-regions). If you encounter this, consider using a VPN or an alternative access method if allowed by Google's terms of service.
  - Network Error (HTTP 499): Often occurs if your device loses internet connectivity.
- - Invalid Input ( HTTP 400): If your question is malformed or violates API input requirements, you might receive this
+ - Invalid Input ( HTTP 400): If your question is malformed or violates input requirements, you might receive this.
  - API Rate Limit Exceeded (HTTP 429): This error, means you've exceeded the allowed number of messages. Please wait a moment.
 
     </td>
