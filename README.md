@@ -182,7 +182,7 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
 
 ## 🛠 Tech Stack & Libraries
 - Compatible with devices running Android 7.0 and newer(Minimum SDK level 24).
-- Fully implemented using [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- ***Fully*** implemented using [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Coroutines](https://developer.android.com/kotlin/coroutines) and [Flow](https://developer.android.com/kotlin/flow) for asynchronous streams.
 - [Sensors in Android](https://developer.android.com/develop/sensors-and-location/sensors/sensors_overview): Built-in sensors that measure motion, orientation, and various environmental conditions.
 - Firebase:
