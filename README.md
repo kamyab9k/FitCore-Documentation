@@ -199,6 +199,8 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
   - [Hilt](https://developer.android.com/training/dependency-injection/hilt-android): Dependency Injection.
   - [Compose animation](https://developer.android.com/develop/ui/compose/animation/introduction): Jetpack Compose animations.
   - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager): To achieve background processing with scheduling.
+- [Figma](https://www.figma.com): A cloud-based, collaborative design tool primarily used for creating user interfaces (UIs) and interactive prototypes.
+- [Material 3](https://m3.material.io/): Google's latest design system for building modern, personalized, and accessible app UIs.
 - [Coil](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images#0): image loading library for Android.
 - [Retrofit2](https://github.com/square/retrofit): Construct the REST APIs and paging network data.
 - [ksp](https://github.com/google/ksp): Kotlin Symbol Processing API.
