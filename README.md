@@ -238,6 +238,20 @@ The data Layer consists of repositories, which include business logic, such as q
 
 <br>
 
+
+## 🔒 Security Measures
+The app may limit functionality or `self-terminate` if it detects:
+ - **Rooted Devices**: Presence of root access or related tools.
+ - **Active Debugging**: Attempts to debug or inspect the app's runtime
+ - **App Tampering**: Modifications to the app's code or resources
+ - **Other Compromised Environments**: Critical security risks that could jeopardize app integrity.
+
+- Other security layers include:
+    - **Code Obfuscation**: The app's code is obfuscated to make reverse engineering and intellectual property theft significantly more difficult.
+    - **Secured API Keys & Strings**: Sensitive data like API keys and critical strings are indirectly implemented and not easily extractable from the application binary.
+
+<br>
+
 ## In Development ⚡
  - User achievement system (part of gamification strategy)
  - Upcoming workouts in live workout sessions screen
@@ -250,6 +264,6 @@ The data Layer consists of repositories, which include business logic, such as q
 Email me at:  m.khosravi.dev@gmail.com 
 or contact me on [Linkedin](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/)
 
-
+<br>
 
 
