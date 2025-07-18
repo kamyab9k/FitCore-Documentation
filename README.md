@@ -105,7 +105,7 @@ Join our workout sessions for instructor-led guidance and an immersive fitness e
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
-      <img src="https://github.com/user-attachments/assets/a521fecd-b1fb-4c46-8bda-79b4ee8d15e0" alt="Live Workout Sessions Animation" width="650px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+      <img src="https://github.com/user-attachments/assets/a521fecd-b1fb-4c46-8bda-79b4ee8d15e0" alt="Live Workout Sessions Animation" width="670px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
     </td>
   </tr>
 </table>
