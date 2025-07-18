@@ -256,7 +256,7 @@ The app may limit functionality or `self-terminate` if it detects:
 
 ## In Development ⚡
  - User achievement system (part of gamification strategy)
- - Upcoming workouts in live workout sessions screen
+ - Display upcoming workouts in live workout sessions screen
 
 <br>
 
