@@ -183,7 +183,8 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
 ## 🛠 Tech Stack & Libraries
 - Compatible with devices running Android 7.0 and newer(Minimum SDK level 24).
 - Fully implemented using [Jetpack Compose](https://developer.android.com/jetpack/compose)
-- [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) and [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous streams.
+- [Coroutines](https://developer.android.com/kotlin/coroutines) and [Flow](https://developer.android.com/kotlin/flow) for asynchronous streams.
+- [Sensors in Android](https://developer.android.com/develop/sensors-and-location/sensors/sensors_overview): Built-in sensors that measure motion, orientation, and various environmental conditions.
 - Firebase:
   - [Authentication](https://firebase.google.com/products/auth): Secure user sign-up, sign-in (including forgot password) for seamless onboarding.
   - [Crashlytics](https://firebase.google.com/products/crashlytics): Real-time crash reporting and insightful error analysis to maintain app stability.
@@ -195,13 +196,12 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
   - ViewModel: UI related data holder and lifecycle aware.
   - [Type Safe Compose Navigation](https://developer.android.com/guide/navigation/design/type-safety): For navigating screens and Type Safety to create more robust, reliable, and maintainable navigation system  , enabling Compile-Time Error Detection.
   - [Room](https://developer.android.com/training/data-storage/room): Constructs Database by providing an abstraction layer over SQLite to allow fluent database access.
-  - [Hilt](https://dagger.dev/hilt/): Dependency Injection.
+  - [Hilt](https://developer.android.com/training/dependency-injection/hilt-android): Dependency Injection.
   - [Compose animation](https://developer.android.com/develop/ui/compose/animation/introduction): Jetpack Compose animations.
   - [WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager): To achieve background processing with scheduling.
 - [Coil](https://developer.android.com/codelabs/basic-android-kotlin-compose-load-images#0): image loading library for Android.
 - [Retrofit2](https://github.com/square/retrofit): Construct the REST APIs and paging network data.
 - [ksp](https://github.com/google/ksp): Kotlin Symbol Processing API.
-- [viewmodel-lifecycle](https://github.com/skydoves/viewmodel-lifecycle): ViewModel Lifecycle allows you to track and observe Jetpack's ViewModel lifecycle changes.
 
 <br>
 
