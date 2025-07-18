@@ -187,7 +187,7 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
 - Firebase:
   - [Authentication](https://firebase.google.com/products/auth): Secure user sign-up, sign-in (including forgot password) for seamless onboarding.
   - [Crashlytics](https://firebase.google.com/products/crashlytics): Real-time crash reporting and insightful error analysis to maintain app stability.
-  - DebugView: For real-time event monitoring and validation during development.
+  - DebugView: For real-time event monitoring during development.
 - Initial Data Population: Efficiently prepopulates the Room database with initial data using a [pre-packaged JSON strategy](https://developer.android.com/training/data-storage/room/prepopulate)
 - [Google Gemini](https://ai.google.dev/): Powers the AI-driven personalized fitness coaching
 - Jetpack
