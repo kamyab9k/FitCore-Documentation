@@ -105,7 +105,7 @@ Join our workout sessions for instructor-led guidance and an immersive fitness e
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
-      <img src="https://github.com/user-attachments/assets/a521fecd-b1fb-4c46-8bda-79b4ee8d15e0" alt="Live Workout Sessions Animation" width="470px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
+      <img src="https://github.com/user-attachments/assets/a521fecd-b1fb-4c46-8bda-79b4ee8d15e0" alt="Live Workout Sessions Animation" width="630px" style="display:block; margin-top: 0; margin-bottom: 0;"/>
     </td>
   </tr>
 </table>
@@ -175,8 +175,9 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
 
 
 ## 🛠 Tech Stack & Libraries
-- Minimum SDK level 24.
-- 100% [Jetpack Compose](https://developer.android.com/jetpack/compose) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous streams.
+- Compatible with devices running Android 7.0 and newer(Minimum SDK level 24).
+- Fully implemented using [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) and [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous streams.
 - Firebase:
   - [Authentication](https://firebase.google.com/products/auth): Secure user sign-up, sign-in (including forgot password) for seamless onboarding.
   - [Crashlytics](https://firebase.google.com/products/crashlytics): Real-time crash reporting and insightful error analysis to maintain app stability.
