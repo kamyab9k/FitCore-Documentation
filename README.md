@@ -1,4 +1,4 @@
-![Cover](https://github.com/user-attachments/assets/06413b08-1f7c-47eb-af75-061541b98d55)
+![cover](https://github.com/user-attachments/assets/06413b08-1f7c-47eb-af75-061541b98d55)
 
 
 <p align="center">
@@ -10,7 +10,7 @@
   
 **FitCore: Home Workouts & AI Coach** demonstrates the integration of AI with Fitness on Android
 
-This fitness application showcases:
+Discover FitCore's Features:
 
 - The integration of AI capabilities for personalized fitness coaching and insights.
 - Categorized exercises based on user's fitness level and goal.
