@@ -248,11 +248,9 @@ The app may limit functionality or `self-terminate` if it detects:
  - **Rooted Devices**: Presence of root access or related tools.
  - **Active Debugging**: Attempts to debug or inspect the app's runtime
  - **App Tampering**: Modifications to the app's code or resources
- - **Other Compromised Environments**: Critical security risks that could jeopardize app integrity.
-
 - **Other security layers** include:
-    - **Code Obfuscation**: The app's code is obfuscated to make reverse engineering and intellectual property theft significantly more difficult.
-    - **Secured API Keys & Strings**: Sensitive data like API keys and critical strings are indirectly implemented and not easily extractable from the application binary.
+    - **Code Obfuscation**: The app's code is obfuscated to make reverse engineeringsignificantly more difficult.
+    - **Secured API Keys & Strings**: Sensitive data like API keys and critical strings are indirectly implemented and not easily extractable.
 
 <br>
 
