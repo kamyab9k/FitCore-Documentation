@@ -209,7 +209,7 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
 
 ## 🏛️ Architecture
 
-**Fitcore** follows the [Google's official architecture guidance](https://developer.android.com/topic/architecture).
+**Fitcore** is built according to [Google's official architecture guidance](https://developer.android.com/topic/architecture).
 
 <img width="1029" height="783" alt="Architecture" src="https://github.com/user-attachments/assets/794623da-eb79-4837-b570-3f50ddff22d0" />
 
