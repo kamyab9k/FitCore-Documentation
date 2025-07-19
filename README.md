@@ -180,7 +180,7 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
 <br>
 
 
-## 🛠 Tech Stack & Libraries
+## ⚙️ Tech Stack & Libraries
 - Compatible with devices running Android 7.0 and newer(Minimum SDK level 24).
 - ***Fully*** implemented using [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Coroutines](https://developer.android.com/kotlin/coroutines) and [Flow](https://developer.android.com/kotlin/flow) for asynchronous streams.
