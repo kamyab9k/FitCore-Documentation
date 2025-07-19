@@ -8,9 +8,11 @@
 <a href="https://www.linkedin.com/in/kamyab-khosravi-5214551a4/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@kamyab9k"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a></p>
   
-**FitCore: Home Workouts & AI Coach** demonstrates the integration of AI with Fitness on Android
+  <br>
+  <br>
 
-Discover FitCore's Features:
+  
+**FitCore: Home Workouts & AI Coach** demonstrates the integration of AI with Fitness on Android. Key features include:
 
 - The integration of AI capabilities for personalized fitness coaching and insights.
 - Categorized exercises based on user's fitness level and goal.
