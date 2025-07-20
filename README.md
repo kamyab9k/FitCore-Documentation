@@ -27,7 +27,7 @@
 
 ## 📥 Download & Install!
 
-- [FitCore: Home Workouts & AI coach.apk](https://github.com/kamyab9k/FitCore-Documentation/releases/download/v1.0.0/FitCore_v1.0.0.apk)
+- [FitCore: Home Workouts & AI coach.apk](https://github.com/kamyab9k/FitCore-Documentation/releases)
 
 ---
 ![doc_2025-07-16_19-45-12](https://github.com/user-attachments/assets/30662015-8bc9-49a0-b633-58ad45a34cfb)
