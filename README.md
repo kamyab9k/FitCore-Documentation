@@ -249,7 +249,7 @@ The app may limit functionality or `self-terminate` if it detects:
  - **Active Debugging**: Attempts to debug or inspect the app's runtime
  - **App Tampering**: Modifications to the app's code or resources
 - **Other security layers** include:
-    - **Code Obfuscation**: The app's code is obfuscated to make reverse engineeringsignificantly more difficult.
+    - **Code Obfuscation**: The app's code is obfuscated to make reverse engineering significantly more difficult.
     - **Secured API Keys & Strings**: Sensitive data like API keys and critical strings are indirectly implemented and not easily extractable.
 
 <br>
