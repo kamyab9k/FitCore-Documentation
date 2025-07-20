@@ -238,7 +238,7 @@ The UI Layer consists of UI elements like buttons, menus, tabs that could intera
 <img width="1028" height="799" alt="DataLayer" src="https://github.com/user-attachments/assets/95106660-09af-43c2-b9ce-9cb04f2a4ac2" />
 
 
-This data layer is structured around a central Repository, which serves as the single source of truth for the application's data. Its primary functionality involves abstracting data operations, intelligently fetching and managing information from either the Network (for remote data) or the Local Database (Room). Data retrieved from the network can seamlessly update the local database, ensuring data persistence and offline capabilities, while the local database can also be pre-populated via initial data seeding from JSON. The Repository then provides a unified data stream to higher architectural layers, enabling efficient and consistent access to all necessary information, thereby decoupling business logic from underlying data sources.<br>
+This data layer is structured around a central Repository, which serves as the single source of truth for the application's data. Its primary functionality involves abstracting data operations, intelligently fetching and managing information from either the Network (for remote data) or the Local Database (Room). Data retrieved from the network can seamlessly update the local database(mostly authentication), ensuring data persistence, while the local database is also pre-populated via initial data seeding from JSON. The Repository then provides a unified data stream to higher architectural layers, enabling efficient and consistent access to all necessary information, thereby decoupling business logic from underlying data sources.<br>
 
 <br>
 
