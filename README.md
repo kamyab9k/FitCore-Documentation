@@ -42,7 +42,8 @@ Experience a seamless and personalized fitness journey starting with intuitive s
 
 1.  **Modern UI for Onboarding & setup**: Dive into your fitness journey with a visually stunning setup process.
 2.  **Secure User Management**: Secure user authentication, including convenient "Forgot Password" and other account management features.
-3.  **Deep Personalization**: Every piece of your user information is intelligently leveraged to create a truly personalized fitness experience and workout programs just for you.
+    - For Firebase authentication, Due to Google's policies, IPs from Iran will be impacted, but users can still enjoy the app by simply pressing the skip button in this screen and skipping registration.
+4.  **Deep Personalization**: Every piece of your user information is intelligently leveraged to create a truly personalized fitness experience and workout programs just for you.
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
