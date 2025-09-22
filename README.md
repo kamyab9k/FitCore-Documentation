@@ -15,8 +15,8 @@
 **FitCore: Home Workouts & AI Coach** demonstrates the integration of AI with Fitness on Android. Key features include:
 
 - The integration of AI capabilities for personalized fitness coaching and insights.
-- Categorized exercises based on user's fitness level and goal.
-- Track user steps with phone's sensors and provide weekly data chart.
+- Categorized exercises based on the user's fitness level and goal.
+- Track user steps with the phone's sensors and provide a weekly data chart.
 - Calorie counter - distance tracker - dynamic BMI calculator and more
 
 <br>
@@ -107,7 +107,7 @@ Accurately tracking your steps, distance, and calories burned, visualized in cle
 Join our workout sessions for instructor-led guidance and an immersive fitness experience.
 
 1. **Interactive workout Sessions**: Engage in live workout sessions where you can follow along with an instructor's video, guiding you through each exercise.
-   - (Due to Iran's policy of Censoring Youtube Platform, this feature will be impacted with IPs from this region)
+   - (Due to Iran's policy of Censoring the YouTube platform, this feature will be impacted with IPs from this region)
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
@@ -133,7 +133,7 @@ Your intelligent AI Coach, providing personalized advice and plans across all as
  - Out of Region / Forbidden Access (HTTP 403): This error, means API access from your current geographic location might be restricted. The Gemini API has specific [supported regions](https://ai.google.dev/gemini-api/docs/available-regions). If you encounter this, consider using a VPN or an alternative access method if allowed by Google's terms of service.
  - Network Error (HTTP 499): Often occurs if your device loses internet connectivity.
  - Invalid Input ( HTTP 400): If your question is malformed or violates input requirements, you might receive this.
- - API Rate Limit Exceeded (HTTP 429): This error, means you've exceeded the allowed number of messages. Please wait a moment.
+ - API Rate Limit Exceeded (HTTP 429): This error means you've exceeded the allowed number of messages. Please wait a moment.
 
     </td>
     <td style="width:50%; vertical-align:top; text-align:right;" valign="top">
@@ -217,7 +217,7 @@ Personalize your visual experience and reduce eye strain with FitCore's theme cu
 <img width="1029" height="783" alt="Architecture" src="https://github.com/user-attachments/assets/794623da-eb79-4837-b570-3f50ddff22d0" />
 
 
-The overall architecture is composed of two layers; UI Layer and the data layer. Each layer has dedicated components and they each have different responsibilities.
+The overall architecture is composed of two layers; the UI Layer and the data layer. Each layer has dedicated components, and they each have different responsibilities.
 The arrow means the component has a dependency on the target component following its direction.
 
 
@@ -232,7 +232,7 @@ Each layer has different responsibilities below. Basically, they follow [unidire
 ![UI Layer](https://github.com/user-attachments/assets/932a2d36-dcf2-4a39-a66a-4fc6a643f878)
 
 
-The UI Layer consists of UI elements like buttons, menus, tabs that could interact with users and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) that holds app states and restores data when configuration changes.
+The UI Layer consists of UI elements like buttons, menus, and tabs that could interact with users and [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) that holds app states and restores data when configuration changes.
 
 
 ### Data Layer
@@ -245,7 +245,7 @@ This data layer is structured around a central Repository, which serves as the s
 
 
 ## 🔒 Security Measures
-The app may limit functionality or `self-terminate` if it detects:
+The app may limit functionality or `self-terminate` if it detects (Experimental):
  - **Rooted Devices**: Presence of root access or related tools.
  - **Active Debugging**: Attempts to debug or inspect the app's runtime
  - **App Tampering**: Modifications to the app's code or resources
@@ -257,17 +257,24 @@ The app may limit functionality or `self-terminate` if it detects:
 
 ## In Development ⚡
  - User achievement system (part of gamification strategy)
- - Display upcoming workouts in live workout sessions screen
+ - Display upcoming workouts in the live workout sessions screen
 
 <br>
 
 
-## 🤝 Collaboration or business oppurtunity?
+## 🤝 Collaboration or business opportunity?
 
 Email me at:  m.khosravi.dev@gmail.com 
-or contact me on [Linkedin](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/)
+or contact me on [LinkedIn](https://www.linkedin.com/in/kamyab-khosravi-5214551a4/)
 
 <br>
+
+
+## Poster
+<img width="1920" height="1080" alt="FItCoreCover" src="https://github.com/user-attachments/assets/802e1001-b4a0-44ba-b995-8d0de8500d7d" />
+
+
+
 
 License
 --------
